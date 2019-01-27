@@ -1,4 +1,8 @@
-﻿SvgFileType
+
+See the latest releases [HERE](https://github.com/otuncelli/Scalable-Vector-Graphics-Plugin-for-Paint.NET/releases).
+
+
+SvgFileType
 ===========
 
 This is a Paint.NET filetype plugin for loading SVG (Scalable Vector Graphics) and its compressed variant SVGZ files. 
